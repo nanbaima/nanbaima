@@ -6,7 +6,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/nanbaima.https://github.com/nanbaima)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nanbaima.nanbaima)
 
 </p>
 <div size='20px'> Hi! My name is Renan Lima Baima. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -55,9 +55,22 @@ I am proficient in Python and C and familiar with software such as TensorFlow, N
 
 
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<!-- More blogs go here -->
 
-![Metrics](https://metrics.lecoq.io/https://github.com/nanbaima?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/stats.gif' width="50px" height=50px> </h2>
+
+[![nanbaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanbaima&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanbaima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2> My Repository <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/repo.gif' width="50px" height=50px> </h2>
+
+<a href="https://github.com/nanbaima/awesome-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nanbaima&repo=awesome-project" />
+</a>
+<a href="https://github.com/nanbaima/another-awesome-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nanbaima&repo=another-awesome-project" />
+</a>
+
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
