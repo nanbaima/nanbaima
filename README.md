@@ -47,13 +47,10 @@ I am proficient in Python and C and familiar with software such as TensorFlow, N
 <a href= https://github.com/https://github.com/nanbaima?tab=repositories&q=&type=&language=team&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/team.svg'> </a>
 <a href= https://github.com/https://github.com/nanbaima?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
 
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/renanbaima/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/https://twitter.com/nanbaima'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/https://github.com/nanbaima'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
 
 <!-- More blogs go here -->
 
@@ -64,18 +61,16 @@ I am proficient in Python and C and familiar with software such as TensorFlow, N
 
 <h2> My Repository <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/repo.gif' width="50px" height=50px> </h2>
 
-<a href="https://github.com/nanbaima/awesome-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nanbaima&repo=awesome-project" />
+<a href="https://github.com/nanbaima/vrep-env">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nanbaima&repo=vrep-env" />
 </a>
-<a href="https://github.com/nanbaima/another-awesome-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nanbaima&repo=another-awesome-project" />
+<a href="https://github.com/nanbaima/InfraChain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nanbaima&repo=InfraChain" />
 </a>
-
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
